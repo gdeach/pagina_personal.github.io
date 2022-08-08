@@ -194,7 +194,7 @@ main{
     margin-top: -150px;
     opacity: 0.5;
 }
-@media (max-width: 1500px){
+@media (max-width: 1200px){
     .container__header, main{
         padding: 50px;
     }
